@@ -6,6 +6,8 @@ Last week, you sent out an email requesting that teachers fill out a form for al
 
 | Student ID  | Subject | Grade (%) | Teacher ID |
 |---|---|---|---|
+
+
 Unfortunately and to no one's surprise, the teachers at TIBAP are, well, below average and thus cannot follow simple instructions.  So what you have received back is data that is incomplete or not in the desired format. 
 
 Now with the assistant to the assistant principal breathing down your neck, you have no choice but to fix the data yourself and make sure the report cards get sent out on time.  
