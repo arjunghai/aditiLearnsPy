@@ -1,6 +1,6 @@
 # This is Below Average Preschool Report Cards
 
-After years of working in the sanitation department of This is Below Average Preschool (TIBAP), you have finally achieved your life long dream of working as the assistant to the assistant of the assistant principal of TIBAP. As the assistant to the assistant of the assistant, your first job is to make sure scores are sent out in a timely manner.  
+After years of working in the sanitation department of This is Below Average Preschool (TIBAP), you have finally achieved your life long dream of working as the assistant to the assistant of the assistant principal of TIBAP. As the assistant to the assistant of the assistant principal, your first job is to make sure report cards are sent out in a timely manner.  
 
 Last week, you sent out an email requesting that teachers fill out a form for all their students in the following format:
 
@@ -8,15 +8,15 @@ Last week, you sent out an email requesting that teachers fill out a form for al
 |---|---|---|---|
 
 
-Unfortunately and to no one's surprise, the teachers at TIBAP are, well, below average and thus cannot follow simple instructions.  So what you have received back is data that is incomplete or not in the desired format. 
+Unfortunately and to no one's surprise, the teachers at TIBAP are, well, below average and thus cannot follow simple instructions.  So what you have received back is data that is in some cases incomplete or not in the desired format. 
 
-Now with the assistant to the assistant principal breathing down your neck, you have no choice but to fix the data yourself and make sure the report cards get sent out on time.  
+Now with the assistant to the assistant principal, your boss, breathing down your neck, you have no choice but to fix the data yourself and make sure the report cards get sent out on time.  
 
 
 ## Your Assignment
 You must take the data in `grades.csv` it into an output file.
 
-The file will be a `csv` that contains a single row for each student with the following columns.
+The output file will also be a `csv` that contains a single row for each student with the following columns.
 
 | Student ID | Grade Subject<sub> 1<sub> | Grade Subject<sub> ...<sub> | Grade Subject <sub>5<sub> | Overall Grade | Awards | Teacher ID |
 |---|---|---|---|---|---|---|
