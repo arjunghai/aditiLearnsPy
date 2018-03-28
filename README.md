@@ -18,7 +18,7 @@ You must take the data in `grades.csv` it into an output file.
 
 The file will be a `csv` that contains a single row for each student with the following columns.
 |Student ID| Grade Subject<sub> 1<sub>|Grade Subject<sub> ...<sub>|Grade Subject <sub>k<sub>|Overall Grade| Awards |Teacher ID|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 
 ### Things to Know:
 Grade averages will need to be outputted in the numerical format [0-100] (%)
